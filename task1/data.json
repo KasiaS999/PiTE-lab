@@ -1,0 +1,368 @@
+{
+  "schools": [
+    {
+      "classes": [
+        {
+          "students": [
+            {
+              "name": "Gabriela",
+              "surname": "Kowalska",
+              "grades": {
+                "math": [
+                  5,
+                  3,
+                  4
+                ],
+                "history": [
+                  2,
+                  5,
+                  5
+                ],
+                "science": [
+                  3,
+                  5,
+                  1
+                ]
+              },
+              "attendance": [
+                1,
+                0,
+                1,
+                1
+              ]
+            },
+            {
+              "name": "Arkadiusz",
+              "surname": "Wajda",
+              "grades": {
+                "math": [
+                  5,
+                  5,
+                  5
+                ],
+                "history": [
+                  3,
+                  5,
+                  4
+                ],
+                "science": [
+                  5,
+                  5,
+                  4
+                ]
+              },
+              "attendance": [
+                0,
+                1,
+                0,
+                1
+              ]
+            },
+            {
+              "name": "Zofia",
+              "surname": "Nowak",
+              "grades": {
+                "math": [
+                  1,
+                  2,
+                  2
+                ],
+                "history": [
+                  3,
+                  4,
+                  2
+                ],
+                "science": [
+                  1,
+                  1,
+                  3
+                ]
+              },
+              "attendance": [
+                1,
+                1,
+                1,
+                1
+              ]
+            },
+            {
+              "name": "Konrad",
+              "surname": "Filip",
+              "grades": {
+                "math": [
+                  4,
+                  3,
+                  3
+                ],
+                "history": [
+                  5,
+                  3,
+                  5
+                ],
+                "science": [
+                  3,
+                  5,
+                  2
+                ]
+              },
+              "attendance": [
+                1,
+                1,
+                1,
+                0
+              ]
+            }
+          ],
+          "subject": [
+            "math",
+            "history",
+            "science"
+          ],
+          "class_name": "IIIa"
+        },
+        {
+          "students": [
+            {
+              "name": "Wojciech",
+              "surname": "Zych",
+              "grades": {
+                "music": [
+                  3,
+                  3,
+                  2
+                ],
+                "art": [
+                  4,
+                  5,
+                  4
+                ],
+                "french": [
+                  3,
+                  4,
+                  1
+                ],
+                "spanish": [
+                  2,
+                  4,
+                  5
+                ]
+              },
+              "attendance": [
+                1,
+                0,
+                1,
+                0
+              ]
+            },
+            {
+              "name": "Agata",
+              "surname": "Dubiel",
+              "grades": {
+                "music": [
+                  4,
+                  5,
+                  5
+                ],
+                "art": [
+                  5,
+                  5,
+                  1
+                ],
+                "french": [
+                  3,
+                  3,
+                  2
+                ],
+                "spanish": [
+                  4,
+                  5,
+                  3
+                ]
+              },
+              "attendance": [
+                1,
+                1,
+                1,
+                0
+              ]
+            },
+            {
+              "name": "Dorota",
+              "surname": "Wojcik",
+              "grades": {
+                "music": [
+                  2,
+                  2,
+                  2
+                ],
+                "art": [
+                  1,
+                  2,
+                  3
+                ],
+                "french": [
+                  2,
+                  3,
+                  4
+                ],
+                "spanish": [
+                  4,
+                  4,
+                  5
+                ]
+              },
+              "attendance": [
+                1,
+                0,
+                0,
+                1
+              ]
+            },
+            {
+              "name": "Andrzej",
+              "surname": "Zielinski",
+              "grades": {
+                "music": [
+                  3,
+                  3,
+                  2
+                ],
+                "art": [
+                  4,
+                  5,
+                  4
+                ],
+                "french": [
+                  3,
+                  4,
+                  1
+                ],
+                "spanish": [
+                  2,
+                  4,
+                  5
+                ]
+              },
+              "attendance": [
+                1,
+                1,
+                1,
+                0
+              ]
+            }
+          ],
+          "subject": [
+            "music",
+            "art",
+            "french",
+            "spanish"
+          ],
+          "class_name": "IIb"
+        }
+      ],
+      "school_name": "ILO"
+    },
+    {
+      "classes": [
+        {
+          "students": [
+            {
+              "name": "Wioletta",
+              "surname": "Mazur",
+              "grades": {
+                "english": [
+                  1,
+                  3,
+                  2
+                ],
+                "chemistry": [
+                  1,
+                  2,
+                  1
+                ]
+              },
+              "attendance": [
+                1,
+                1,
+                1,
+                0
+              ]
+            },
+            {
+              "name": "Marcin",
+              "surname": "Wozniak",
+              "grades": {
+                "english": [
+                  4,
+                  3,
+                  3
+                ],
+                "chemistry": [
+                  5,
+                  5,
+                  4
+                ]
+              },
+              "attendance": [
+                1,
+                1,
+                1,
+                1
+              ]
+            },
+            {
+              "name": "Anna",
+              "surname": "Grzywska",
+              "grades": {
+                "english": [
+                  4,
+                  3,
+                  3
+                ],
+                "chemistry": [
+                  2,
+                  5,
+                  3
+                ]
+              },
+              "attendance": [
+                1,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "name": "Julia",
+              "surname": "Marchewka",
+              "grades": {
+                "english": [
+                  2,
+                  1,
+                  4
+                ],
+                "chemistry": [
+                  5,
+                  4,
+                  4
+                ]
+              },
+              "attendance": [
+                0,
+                0,
+                1,
+                1
+              ]
+            }
+          ],
+          "subject": [
+            "english",
+            "chemistry"
+          ],
+          "class_name": "IIc"
+        }
+      ],
+      "school_name": "IILO"
+    }
+  ]
+}
